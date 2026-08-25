@@ -150,19 +150,19 @@ I'm currently looking for opportunities where I can **learn, contribute and grow
 <div align="center">
 
 <a href="https://github.com/viniasm19/pacman-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=pacman-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=viniasm19&repo=pacman-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9" alt="Pacman Java"/>
 </a>
 
 <a href="https://github.com/viniasm19/banco-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=banco-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=viniasm19&repo=banco-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9" alt="Banco Java"/>
 </a>
 
 <a href="https://github.com/viniasm19/darkshop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=darkshop&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=viniasm19&repo=darkshop&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9" alt="Darkshop"/>
 </a>
 
 <a href="https://github.com/viniasm19/calculadora-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=calculadora-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=viniasm19&repo=calculadora-java&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9" alt="Calculadora Java"/>
 </a>
 
 </div>
@@ -303,31 +303,24 @@ vinicius@dev-system:~$ _
 <div align="center">
 
 <a href="https://github.com/viniasm19">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=viniasm19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=viniasm19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE7&icon_color=00FFE7&text_color=C9D1D9" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/viniasm19">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniasm19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FFE7&text_color=C9D1D9"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniasm19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FFE7&text_color=C9D1D9" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=viniasm19&theme=transparent&hide_border=true&background=0D1117&ring=00FFE7&fire=FF2E63&currStreakLabel=00FFE7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=viniasm19&theme=transparent&hide_border=true&background=0D1117&ring=00FFE7&fire=FF2E63&currStreakLabel=00FFE7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
 ## `> ACTIVITY.MONITOR`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniasm19&bg_color=0D1117&color=C9D1D9&line=00FFE7&point=FF2E63&area=true&area_color=00FFE7&hide_border=true&custom_title=VINICIUS%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniasm19&bg_color=0D1117&color=C9D1D9&line=00FFE7&point=FF2E63&area=true&area_color=00FFE7&hide_border=true&custom_title=VINICIUS%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -335,11 +328,8 @@ vinicius@dev-system:~$ _
 ## `> ACHIEVEMENT.PROTOCOL`
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=viniasm19&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=viniasm19&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 </div>
-
 ---
 
 ## `> CONTRIBUTION_MAP.render`
