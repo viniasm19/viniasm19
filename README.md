@@ -346,7 +346,7 @@ vinicius@dev-system:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viniasm19/viniasm19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/viniasm19/viniasm19/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
