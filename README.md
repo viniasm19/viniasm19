@@ -1,178 +1,251 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL - EFEITO DE INICIALIZAÇÃO DE SISTEMA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ffe7&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00ffe7&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20VINI.EXE%20%7C%20DEV%20PROTOCOL%20ACTIVATED&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:111827,100:0d1117&text=VINICIUS%20ALVES&fontColor=00F7FF&fontSize=48&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20DEVELOPER%20PROFILE&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer.profile...;%3E+Loading+Vinicius.exe...;%3E+Java+%7C+Web+Development+%7C+Problem+Solving;%3E+Building+systems.+Learning+every+day.;%3E+System+status%3A+ONLINE" alt="Typing Animation"/>
+
+<br><br>
+
 <a href="https://github.com/viniasm19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00FFE7&center=true&vCenter=true&width=800&lines=Inicializando+perfil+de+Vinicius+Melo...;Carregando+m%C3%B3dulo%3A+Java+%2B+JavaScript...;Compilando+conhecimento+em+POO...;Estabelecendo+conex%C3%A3o+com+Spring+Boot...;Sistema+pronto.+Bem-vindo%2C+visitante." alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<br/><br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=viniasm19&color=00ffe7&style=for-the-badge&label=CONEX%C3%95ES+DETECTADAS)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=for-the-badge&logo=statuspage&logoColor=black)
-![Build](https://img.shields.io/badge/BUILD-EM%20EVOLU%C3%87%C3%83O-ff2e63?style=for-the-badge&logo=progress&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=viniasm19&style=flat-square&color=00F7FF&label=PROFILE+ACCESS"/>
 
 </div>
 
-<br/>
+---
 
-<!-- SOBRE MIM -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30"/> `SOBRE_MIM.log`
+## `> SYSTEM.IDENTITY`
 
-```yaml
-> USER: Vinicius Alves Soares de Melo
-> ALIAS: viniasm19
-> ROLE: Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-> LOCATION: Brasil 🇧🇷
-> FOCUS: Java · JavaScript · Backend em construção
-> MODE: Aprendizado contínuo [■■■■■■□□□□] 60%
-> MISSION: Transformar café e documentação em código funcional
-> STATUS: Disponível para estágio
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER PROFILE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME        : Vinicius                                     ║
+║  ROLE        : ADS Student / Developer                      ║
+║  FOCUS       : Java • Web Development • Software            ║
+║  STATUS      : Learning & Building                          ║
+║  LOCATION    : São Paulo, Brazil                            ║
+║                                                              ║
+║  MISSION     : Transform knowledge into real systems.       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/wave.gif" width="60"/>
-</div>
-
-<br/>
-
-<!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"/> `TECH_STACK.config`
+### `> ABOUT.ME`
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+I'm a **Systems Analysis and Development student** passionate about technology, software development and continuous learning.
 
-### Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=spring,angular,nodejs&theme=dark" />
+Currently, I'm focusing on strengthening my foundations in **Java, programming logic, databases and web development**, while building projects that turn theory into practical experience.
 
-### Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+My goal isn't just to learn how to code — it's to understand **why systems work, how they are designed and how to build them better.**
 
 </div>
 
-<br/>
+---
 
-<!-- FERRAMENTAS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28"/> `FERRAMENTAS.sys`
+## `> TECH.STACK`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,idea,postman,linux,vscode&theme=dark" />
+
+### `LANGUAGES & DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css&theme=dark" />
+
+<br><br>
+
+### `FRAMEWORKS & DATABASE`
+
+<img src="https://skillicons.dev/icons?i=spring,angular,mysql&theme=dark" />
+
+<br><br>
+
+### `TOOLS & ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,npm&theme=dark" />
+
 </div>
 
-<br/>
+---
 
-<!-- PROJETOS EM CARDS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="28"/> `PROJETOS.db`
+## `> TECHNOLOGY.MATRIX`
+
+| Category              | Technologies                                           |
+| --------------------- | ------------------------------------------------------ |
+| `Backend`             | Java • Spring Boot                                     |
+| `Frontend`            | HTML • CSS • JavaScript • Angular                      |
+| `Database`            | MySQL • SQL                                            |
+| `Version Control`     | Git • GitHub                                           |
+| `Development`         | IntelliJ IDEA • VS Code • Postman                      |
+| `Currently Improving` | Programming Logic • Java • Databases • Web Development |
+
+---
+
+## `> ACTIVE.PROJECTS`
 
 <div align="center">
-
-<a href="https://github.com/viniasm19/banco-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=banco-java&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9" width="47%"/>
-</a>
-<a href="https://github.com/viniasm19/pacman-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=pacman-java&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9" width="47%"/>
-</a>
 
 <a href="https://github.com/viniasm19/darkshop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=darkshop&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9" width="47%"/>
-</a>
-<a href="https://github.com/viniasm19/calculadora-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=calculadora-java&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=viniasm19&repo=darkshop&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
 </a>
 
 </div>
 
-> 💡 *Dica: troque `repo=` pelo nome exato de outros repositórios seus para adicionar mais cards.*
+### `DARKSHOP`
 
-<br/>
+> Full-stack-oriented academic project focused on **web development and e-commerce concepts**.
 
-<!-- OBJETIVOS ATUAIS EM FORMATO DE TERMINAL -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> `OBJETIVOS.exe`
+**Current stack**
 
-```bash
-vini@dev:~$ cat objetivos_atuais.txt
+`Angular` `TypeScript` `HTML` `CSS` `Git`
 
-[✔] Consolidar fundamentos de Java e POO
-[✔] Praticar lógica com projetos autorais
-[ ] Construir API REST completa com Spring Boot + banco de dados
-[ ] Escrever testes automatizados (JUnit)
-[ ] Aprofundar em estruturas de dados e algoritmos
-[ ] Conquistar primeira vaga de estágio em desenvolvimento
+**Focus**
 
-vini@dev:~$ _
+* Component-based development
+* Responsive interfaces
+* Application structure
+* Frontend architecture
+* Practical software development
+
+<a href="https://github.com/viniasm19/darkshop">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+---
+
+## `> CURRENT.MISSION`
+
+```text
+┌──[ VINICIUS@DEV-SYSTEM ]─[ ~/learning ]─────────────────────┐
+│                                                              │
+│  $ ./status.sh                                               │
+│                                                              │
+│  [■■■■■■■■■■■■■■■■░░░░]  JAVA                LEARNING       │
+│  [■■■■■■■■■■■■■░░░░░░░]  PROGRAMMING LOGIC   IMPROVING      │
+│  [■■■■■■■■■■■■░░░░░░░░]  DATABASES           BUILDING       │
+│  [■■■■■■■■■■■■■░░░░░░░]  WEB DEVELOPMENT     BUILDING       │
+│  [■■■■■■■■■■░░░░░░░░░░]  SPRING BOOT         NEXT           │
+│                                                              │
+│  $ echo "The system is still under development."             │
+│                                                              │
+│  > KEEP LEARNING                                             │
+│  > KEEP BUILDING                                             │
+│  > KEEP SHIPPING                                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> `ANALYTICS.exe`
+## `> GITHUB.ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viniasm19&show_icons=true&theme=react&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&border_color=00ffe7&hide_border=false&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniasm19&layout=compact&theme=react&bg_color=0d1117&title_color=00ffe7&text_color=c9d1d9&border_color=00ffe7&hide_border=false" width="38%"/>
+<a href="https://github.com/viniasm19">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=viniasm19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+</a>
 
-<br/>
+<a href="https://github.com/viniasm19">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniasm19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viniasm19&theme=react&background=0d1117&ring=00ffe7&fire=ff2e63&currStreakLabel=00ffe7&border=00ffe7&hide_border=false" width="70%"/>
+<br><br>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniasm19&theme=react-dark&bg_color=0d1117&color=00ffe7&line=00ffe7&point=ff2e63&hide_border=true&area=true" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=viniasm19&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
-<br/>
+---
 
-<!-- GITHUB TROPHIES -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28"/> `CONQUISTAS.log`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=viniasm19&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
-<br/>
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> `CONTRIBUTION_MAP.render`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/viniasm19/viniasm19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ *Para essa animação funcionar, configure a GitHub Action oficial [`Platane/snk`](https://github.com/Platane/snk) neste mesmo repositório (`viniasm19/viniasm19`) — instruções no rodapé deste arquivo.*
-
-<br/>
-
-<!-- REDES SOCIAIS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28"/> `CONTATO.link`
+## `> ACTIVITY.MONITOR`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-00ffe7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/viniasm19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffe7?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU-LINK-AQUI)
-[![Gmail](https://img.shields.io/badge/Email-00ffe7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-00ffe7?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/SEU-LINK-AQUI)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniasm19&bg_color=0D1117&color=C9D1D9&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&custom_title=VINICIUS%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="95%"/>
 
 </div>
 
-<br/>
+---
 
-<!-- RODAPÉ -->
+## `> ACHIEVEMENT.PROTOCOL`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:203a43,100:0f2027&height=150&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=viniasm19&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
-`SYSTEM LOG` — README compilado com sucesso ✅ &nbsp;|&nbsp; Última atualização automática via GitHub Actions
+</div>
 
-**"Todo especialista já foi iniciante. Todo código perfeito já foi um rascunho."**
+---
 
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=00ffe7&label=SIGNAL&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fviniasm19%2Fprofile&style=flat-square)
+## `> CONTRIBUTION.SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/viniasm19/viniasm19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `> DEVELOPMENT.PHILOSOPHY`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  01  Understand before implementing.                        │
+│  02  Build before claiming mastery.                         │
+│  03  Break things. Debug them. Learn from them.              │
+│  04  Consistency beats motivation.                          │
+│  05  Every project is a chance to improve.                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/viniasm19">
+<img src="https://img.shields.io/badge/GitHub-viniasm19-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       SYSTEM ONLINE                                         ║
+║       KNOWLEDGE LOADING...                                  ║
+║       PROJECTS IN DEVELOPMENT...                            ║
+║       NEXT LEVEL: IN PROGRESS                               ║
+║                                                              ║
+║                 ████████████████████                         ║
+║                 CONNECTION ESTABLISHED                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:111827,100:0d1117&section=footer&animation=fadeIn"/>
 
 </div>
