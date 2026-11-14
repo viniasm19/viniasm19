@@ -53,6 +53,6 @@ Started as a terminal app and evolved into a graphical interface with Swing.
 
 ## 📫 Contact
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-melo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-melo/)
 
-- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viniasm13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viniasm13@gmail.com)
