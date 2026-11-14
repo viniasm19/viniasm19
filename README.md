@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius (Vini) 👋
+# Hi, I'm Vinicius 👋
 
 Systems Analysis and Development student at **Centro Universitário Senac (SP)**, focused on building a solid foundation in software development.
 
